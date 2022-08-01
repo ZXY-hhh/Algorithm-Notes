@@ -20,3 +20,9 @@ git commit -m "这里填写一些我的心得"
 git
 ```
 
+4. **回退版本**
+
+```git
+git reset --hard 版本
+```
+
